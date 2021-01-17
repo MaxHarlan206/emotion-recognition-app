@@ -11,7 +11,13 @@ DOCUMENTATION:<br>
 Papers on emotion recognition training for kids on the spectrum:
 * [Emotion recognition training in autism spectrum disorder: A systematic review of challenges related to generalizability](https://pubmed.ncbi.nlm.nih.gov/28394669/ "Emotion recognition training in autism spectrum disorder: A systematic review of challenges related to generalizability")
   * Shows the inconclusive nature of emotion recognition training and links out to 13 studies in that area. 
-
+* [Can emotion recognition be taught to children with autism spectrum conditions?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781897/ "Can emotion recognition be taught to children with autism spectrum conditions?")
+  * An interesting study which proposes that emotional recognition content be paired with content that children on the specrum typically enjoy (such as cars and machines) It also proposes a model of the nature of empathy and shows that emotional recognition was successfully trained in accordance with this model. 
+* [Teaching Children with Autism Spectrum Disorder to Recognize and Express Emotion: A Review of the Literature](https://files.eric.ed.gov/fulltext/EJ1126647.pdf "Teaching Children with Autism Spectrum Disorder to Recognize and Express Emotion: A Review of the Literature")
+  * An article which focuses on both the affective and cognitive aspects of emotional skills training which are needed. May serve as later inspiration for added features to the app. Additionally validates the pain point of difficulty translating learned skills in most software to real life, the core pain point I am building around.
+* [Emotional development in autistic children](https://raisingchildren.net.au/autism/development/social-emotional-development/emotional-development-asd "Emotional development in autistic children")
+  * Not a research paper but this blog article may provide an outline for a full spectrum solution to emotional skills  training for autistic children as a terminal point of this app.
+  
 Libraries used:
 
 Special thanks:
