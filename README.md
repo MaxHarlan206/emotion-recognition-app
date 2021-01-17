@@ -19,5 +19,10 @@ Papers on emotion recognition training for kids on the spectrum:
   * Not a research paper but this blog article may provide an outline for a full spectrum solution to emotional skills  training for autistic children as a terminal point of this app.
   
 Libraries used:
+* Requests - used to get the webcam stream from a url
+* OpenCV - for facial recognition and tracking 
+* NumPy - to translate the camera feed into a byte array that can be processed by OpenCV
 
-Special thanks:
+Special thanks: 
+* [Prajjwal Pathak](https://github.com/pyGuru123)
+
