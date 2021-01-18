@@ -1,6 +1,11 @@
 # emotion-recognition-app
 Android App that helps children on the spectrum recognize emotions using the phones camera, face tracking, and machine learning
 
+EXAMPLES:<br>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
 MOTIVATION:<br>
 I have been having two recurring conversations lately with friends:
 The first is how we think that not seeing enough strangers faces (due to masks) during early formative years might lead to an increased incedence of aspergers like symptoms. 
