@@ -2,9 +2,9 @@
 Android App that helps children on the spectrum recognize emotions using the phones camera, face tracking, and machine learning
 
 EXAMPLES:<br>
-Solarized dark             |  Solarized Ocean
+Greyscale camera footage             |  Bytearray footage
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](https://github.com/MaxHarlan206/emotion-recognition-app/blob/main/greyscale-phone-video.gif)  |  ![](https://github.com/MaxHarlan206/emotion-recognition-app/blob/main/gray-scale-bytearray.gif)
 
 MOTIVATION:<br>
 I have been having two recurring conversations lately with friends:
