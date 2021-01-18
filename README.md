@@ -5,6 +5,8 @@ EXAMPLES:<br>
 Greyscale camera footage             |  Bytearray footage
 :-------------------------:|:-------------------------:
 ![](https://github.com/MaxHarlan206/emotion-recognition-app/blob/main/greyscale-phone-video.gif)  |  ![](https://github.com/MaxHarlan206/emotion-recognition-app/blob/main/gray-scale-bytearray.gif)
+Facial recognition first attempt
+![](https://github.com/MaxHarlan206/emotion-recognition-app/blob/main/facial-recogniton-attempt01.gif)
 
 MOTIVATION:<br>
 I have been having two recurring conversations lately with friends:
