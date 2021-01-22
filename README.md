@@ -31,6 +31,7 @@ Libraries used:
 * OpenCV - for facial recognition and tracking 
 * NumPy - to translate the camera feed into a byte array that can be processed by OpenCV
 
-Special thanks: 
+Huge Thanks: 
 * [Prajjwal Pathak](https://github.com/pyGuru123)
-
+* [Omar Sayed](https://github.com/omarsayed7)
+* [Tim Ruscica](https://github.com/techwithtim)
