@@ -2,7 +2,7 @@
 ## Backend
 - [X] Find a facial recognition solution
 - [X] Find an emotion recognition solution
-- [] Find a way to either run natively or on a webserver 
+- [ ] Find a way to either run natively or on a webserver 
 - [X] learn how to sideload on Android
 ## UI
 - [] Facial recognition primary screen. Dark overlay with cta in btn when not on face. When on face button says learn about 'emotion'. Persistent close 'x'
