@@ -3,7 +3,9 @@
 - [X] Find a facial recognition solution
 - [X] Find an emotion recognition solution
 - [ ] Find a way to either run natively or on a webserver 
+- [ ] Use Kivy to create basic page navigation
 - [X] learn how to sideload on Android
+- [ ] UGet access to the Android camera and put it to screen using Kivy
 ## UI
 - [ ] Facial recognition primary screen. Dark overlay with cta in btn when not on face. When on face button says learn about 'emotion'. Persistent close 'x'
 - [ ] Home page that lets you go to the emotion recog tool, about page, and emotions sub menu 
